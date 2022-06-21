@@ -51,5 +51,8 @@ body {
   .navbar-brand {
     width: 100px;
   }
+}
+.texfoo{
+  text-align: center;
 
 }
