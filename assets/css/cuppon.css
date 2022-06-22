@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+
+.navbar {
+    background-color: #28a745;
+    color: #fff;
+}
+.logo_navbar {
+    height: 50px;
+ }
+
+.card-tittle {
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+}
+
+.color2 {
+    color: #ffffff;
+    font-family: 'roboto';
+    font-weight: 500;
+}
+
+.card-text,
+.text2,
+.colores {
+    font-family: 'roboto';
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.card-text1 {
+    font-family: 'roboto';
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.parrafo1 {
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: 350;
+    color: #28a745;
+}
+
+.formulario {
+    background-color: #28a745;
+    color: #fff;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 21px;
+}
+.boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 5vh;
+    font-family: 'roboto';
+    font-weight: 500;
+    font-size: 16px;
+
+}
+.footer-imagen {
+    width: 100px;
+}
